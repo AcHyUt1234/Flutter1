@@ -1,4 +1,4 @@
-## Dicee 🎲
+## Responsive Die
 
 **Learnings:**
 
@@ -12,7 +12,7 @@
 - Basic __Dart__ programming concepts such as data types and functions.
 - Code and use of gesture controls.
 
-**Output Snippet:**
+**Sample Output Snippet:**
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
 
